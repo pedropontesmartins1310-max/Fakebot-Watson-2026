@@ -6,7 +6,7 @@ const lista = [
     "que aparece quando você clica em um botão",
     "mas espero que algum dia eu seja um IA real",
     "espero que  você volte",
-    "com grandes poderes vem grandes responsabilidades"
+    "GG WP lol"
 ]
 var n = 0;
 function funcao(){
