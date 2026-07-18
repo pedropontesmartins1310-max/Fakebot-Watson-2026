@@ -4,12 +4,13 @@ const lista = [
     "ainda não sou nada inteligente",
     "sou apenas texto, em uma lista de frases",
     "que aparece quando você clica em um botão",
-    "mas espero que algum dia eu seja um IA real"
-
+    "mas espero que algum dia eu seja um IA real",
+    "espero que  você volte",
+    "com grandes poderes vem grandes responsabilidades"
 ]
 var n = 0;
 function funcao(){
     resposta.innerHTML = lista[n];
     n++
-    if(n > 5) n=0
+    if(n > 7) n=0
 }
