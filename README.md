@@ -14,3 +14,4 @@ Pagina simples HTML que simula uma IA
 - 2 Abra com VsCode 
 - 3 Execute o arquivo index.html com Live Server
 # Fakebot-Watson-2026
+# Fakebot-Watson-2026
