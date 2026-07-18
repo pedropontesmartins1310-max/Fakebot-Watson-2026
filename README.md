@@ -15,3 +15,4 @@ Pagina simples HTML que simula uma IA
 - 3 Execute o arquivo index.html com Live Server
 # Fakebot-Watson-2026
 # Fakebot-Watson-2026
+# Fakebot-Watson-2026
