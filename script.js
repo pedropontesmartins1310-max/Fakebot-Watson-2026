@@ -6,11 +6,13 @@ const lista = [
     "que aparece quando você clica em um botão",
     "mas espero que algum dia eu seja um IA real",
     "espero que  você volte",
-    "GG WP lol"
+    "GG WP lol",
+    "clique no botão para ganhar um cookie",
+    "haha te enganei"
 ]
 var n = 0;
 function funcao(){
     resposta.innerHTML = lista[n];
     n++
-    if(n > 7) n=0
+    if(n > 9) n=0
 }
