@@ -14,5 +14,5 @@ var n = 0;
 function funcao(){
     resposta.innerHTML = lista[n];
     n++
-    if(n > 9) n=0
+    if(n > 9) n=0 
 }
